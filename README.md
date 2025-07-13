@@ -1,3 +1,7 @@
+
+
+<img width="1279" height="730" alt="Screenshot 2024-10-24 051952" src="https://github.com/user-attachments/assets/fcac9c33-4e8b-4885-a609-c6efe6384a7c" />
+
 # Bank Customer Churn Prediction
 
 ## Introduction
